@@ -48,7 +48,7 @@ if robot_location == goal_location and have_ball is True:
 # The purpose of indenting in an if statement is to define the scope of the conditional block. Indentation indicates which code is enclosed in the if branch and which code is not. 
 
 # 3. Change the initial locations of the objects and get the program to output the same thing. 
-robot_location = 10
+robot_location = 10 
 ball_location = 20
 goal_location = 30
 have_ball = False
